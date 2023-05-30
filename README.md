@@ -1,6 +1,5 @@
 # ComputerGraphics-3D-Modelling
-2023-1학기 컴퓨터그래픽스 Virtual Human 3D 모델링 과제
-숭실대학교 컴퓨터학부
+숭실대학교 컴퓨터학부 2023-1학기 컴퓨터그래픽스 Virtual Human 3D 모델링 과제
 - 20201467 박상준
 - 20201474 서하영
 - 20182613 박상준
